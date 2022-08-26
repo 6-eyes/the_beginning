@@ -1,0 +1,33 @@
+--To Do List--
+1.	Plugins tutorial continue
+2.	Machine Learning Week 5
+3.	IsaacSim getting started
+4.	Complete Tensorflow tutorial
+5.	Complete Linux Commands tutorial
+6.	Start with OOPS in cpp
+6.	Research about Robotics competitions
+
+
+
+
+
+
+
+Terms to know:
+1.	Circular and non-circular differentials
+2.	Navigaion Algorithms (rivision + implementation)
+3.	Shared pointer in cpp
+4.	
+
+
+
+
+
+
+
+
+
+--My ROBOTICS journey--
+1.	Getting started with ROS (prereq. Little bit LINUX)
+2.	NAV2: First Time Robot Setup
+3.	How to use Plugins

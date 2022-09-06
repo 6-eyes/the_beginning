@@ -7,11 +7,12 @@
   1.5.  Make costmap plugin
   1.6.  Go through A* plugin imlementation
   1.7.  Make rrt* plugin
-2.	Machine Learning Week 7
-3.	IsaacSim getting started
-4.	Complete Tensorflow tutorial
-5.	Complete Linux Commands tutorial
-6.	
+2.  PID controller and its implementation
+3.	Machine Learning Week 7
+4.	IsaacSim getting started
+5.	Complete Tensorflow tutorial
+6.	Complete Linux Commands tutorial
+7.	What are circular and non-circular differentials
 
 
 
@@ -21,8 +22,6 @@
 
 Terms to know:
 1.	Circular and non-circular differentials
-2.	Navigaion Algorithms (rivision + implementation)	
-
 
 
 

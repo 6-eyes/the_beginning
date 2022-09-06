@@ -1,11 +1,17 @@
 --To Do List--
 1.	Plugins tutorial continue
-2.	Machine Learning Week 5
+  1.1.  Do graphs in c++
+  1.2.  Implement Dijsktras algo
+  1.3.  Implement A* algo
+  1.4.  Implement rrt* algo
+  1.5.  Make costmap plugin
+  1.6.  Go through A* plugin imlementation
+  1.7.  Make rrt* plugin
+2.	Machine Learning Week 7
 3.	IsaacSim getting started
 4.	Complete Tensorflow tutorial
 5.	Complete Linux Commands tutorial
-6.	Start with OOPS in cpp
-6.	Research about Robotics competitions
+6.	
 
 
 
@@ -15,9 +21,7 @@
 
 Terms to know:
 1.	Circular and non-circular differentials
-2.	Navigaion Algorithms (rivision + implementation)
-3.	Shared pointer in cpp
-4.	
+2.	Navigaion Algorithms (rivision + implementation)	
 
 
 
@@ -31,3 +35,4 @@ Terms to know:
 1.	Getting started with ROS (prereq. Little bit LINUX)
 2.	NAV2: First Time Robot Setup
 3.	How to use Plugins
+4.  Testing the motors

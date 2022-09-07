@@ -12,7 +12,7 @@
 4.	IsaacSim getting started
 5.	Complete Tensorflow tutorial
 6.	Complete Linux Commands tutorial
-7.	What are circular and non-circular differentials
+7.	Read about circular and non-circular differentials.
 
 
 

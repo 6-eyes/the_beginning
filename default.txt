@@ -23,7 +23,6 @@
 
 
 
-
 --My ROBOTICS journey--
 1.	Getting started with ROS (prereq. Little bit LINUX)
 2.	NAV2: First Time Robot Setup

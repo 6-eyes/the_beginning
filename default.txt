@@ -9,10 +9,11 @@
   1.7.  Make rrt* plugin
 2.  PID controller and its implementation
 3.	Machine Learning Week 7
-4.	IsaacSim getting started
-5.	Complete Tensorflow tutorial
-6.	Complete Linux Commands tutorial
-7.	Read about circular and non-circular differentials.
+4.  PPT and report for seminar
+5.	IsaacSim getting started
+6.	Complete Tensorflow tutorial
+7.	Complete Linux Commands tutorial
+8.	Read about circular and non-circular differentials.
 
 
 
